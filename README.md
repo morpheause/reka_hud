@@ -1,3 +1,3 @@
 # reka_hud
 
-thx 3dsmarukfax
+thx 3dsmarukfax & yarakys
